@@ -1,2 +1,2 @@
 # hello-world
-Testing the repository
+Testing the repository to see how this software works
